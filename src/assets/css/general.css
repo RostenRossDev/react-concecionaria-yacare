@@ -1,0 +1,12 @@
+.button{
+    border: 1px solid transparent;
+    border-radius: 10px;
+}
+
+.success{
+    background-color: #29e100;
+}
+
+.info{
+    background-color: #0048d8;
+}
